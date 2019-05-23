@@ -1,0 +1,17 @@
+.tlo {
+    background-color: #808080;
+    width: 250px;
+    height: 500px;
+}
+    
+.kwadrat {
+    background-color: #FEA500;
+    width: 100px;
+    height: 100px;
+    margin-left: 20px;
+    margin-bottom: 10px;
+}
+.tytul {
+    color: white;
+    margin-left: 10px;
+}
